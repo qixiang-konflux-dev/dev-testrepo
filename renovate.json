@@ -3,6 +3,7 @@
   "enabledManagers": ["gomod"],
   "osvVulnerabilityAlerts": true,
   "gomod": {
+      "enabled": true,
       "schedule": ["at any time"]
   }
 }
